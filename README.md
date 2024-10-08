@@ -28,3 +28,22 @@ PicoCTF 2024 - Rank #572, 31/47 Challenges Solved
 [Time Machine](<picoCTF 2024/General Skills/Time Machine.md>)  
 **Web Exploitation:**  
 [Trickster](<picoCTF 2024/Web Exploitation/Trickster.md>)  
+
+### Unsorted
+[13](<Unsorted/13.md>)  
+[Easy Peasy](<Unsorted/Easy Peasy.md>)  
+[Local Authority](<Unsorted/Local Authority.md>)  
+[Some Assembly Required 1](<Unsorted/Some Assembly Required 1.md>)  
+[Web Gauntlet](<Unsorted/Web Gauntlet.md>)  
+[la cifra de](<Unsorted/la cifra de.md>)  
+[ARMssembly 0](<Unsorted/ARMssembly 0.md>)  
+[Easy1](<Unsorted/Easy1.md>)  
+[Mind your Ps and Qs](<Unsorted/Mind your Ps and Qs.md>)  
+[Tapping](<Unsorted/Tapping.md>)  
+[caas](<Unsorted/caas.md>)  
+[where are the robots](<Unsorted/where are the robots.md>)  
+[Caesar](<Unsorted/Caesar.md>)  
+[GET aHEAD](<Unsorted/GET aHEAD.md>)  
+[New Caesar](<Unsorted/New Caesar.md>)  
+[The Numbers](<Unsorted/The Numbers.md>)  
+[dont-use-client-side](<Unsorted/dont-use-client-side.md>)  
